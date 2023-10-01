@@ -1,0 +1,16 @@
+h1 {
+    font-size: 30px;
+    color: rgb(233, 199, 10);
+    font-family: 'Times New Roman', Times, serif;
+}
+.output{
+    color: red;
+    font-size: 40px;
+}
+p{
+    font-size: 25px;
+    color:coral
+}
+body{
+    background-color: rgb(187, 204, 207);
+}
